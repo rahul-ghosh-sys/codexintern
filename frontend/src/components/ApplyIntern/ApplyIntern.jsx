@@ -34,7 +34,7 @@ function ApplyIntern() {
         domain: "",
         college: ""
       })
-      window.location.href = "https://chat.whatsapp.com/ILR038VbtXNFFHRveo2bmQ"
+      window.location.href = "https://chat.whatsapp.com/Fepmzb8D8cxITdvisBwUVY"
     } catch (error) {
       setLoadingStatus(false)
       toast.error(error.response.data.message)
@@ -47,7 +47,7 @@ function ApplyIntern() {
     <div className="w-full h-screen flex flex-col justify-center max-w-lg mx-auto px-4 space-y-6 font-[sans-serif] text-[#333]">
       <Toaster />
 
-      <a href="https://chat.whatsapp.com/ILR038VbtXNFFHRveo2bmQ" target='_blank'>
+      <a href="https://chat.whatsapp.com/Fepmzb8D8cxITdvisBwUVY" target='_blank'>
       <div className='flex justify-center items-center gap-x-2'>
         <h1 className='text-lg font-semibold text-blue-600'>Please join CODEXINTERN's internship group</h1>
         <PiWhatsappLogoDuotone size={35} color='green' className='cursor-pointer'/>
@@ -127,7 +127,7 @@ function ApplyIntern() {
             </svg>
           </button></Link>
 
-        <Link to={"https://chat.whatsapp.com/ILR038VbtXNFFHRveo2bmQ"}>
+        <Link to={"https://chat.whatsapp.com/Fepmzb8D8cxITdvisBwUVY"}>
           <button type="button"
             class="w-10 h-10 inline-flex items-center justify-center rounded-full border-none outline-none bg-[#4caf50] hover:bg-[#4caf10] active:bg-[#4caf50]">
             <svg xmlns="http://www.w3.org/2000/svg" width="16px" fill="#fff" viewBox="0 0 512 512">
